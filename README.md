@@ -40,11 +40,16 @@ A distribuição dos operadores são ¾ de disjunções e ¼ de conjunções, vi
 
 ## Material
 
-Detalhes sobre o material, com material exemplo, encontram-se no arquivo Material.md
+Detalhes sobre o material, com material exemplo, encontram-se no arquivo `Material.md`
 
 ## Plano de Aula
 
-Um plano de aula utilizando o objeto de aprendizagem se encontra no arquivo PlanoDeAula.pdf. Ele é um guia de como aplicar o objeto no contexto de uma aula.
+Um plano de aula utilizando o objeto de aprendizagem se encontra no arquivo `PlanoDeAula.pdf`. Ele é um guia de como aplicar o objeto no contexto de uma aula.
+
+## Metadados do Objeto de Aprendizagem
+
+Os metadados educacionais do LogiCard estão descritos no arquivo `metadata.json`, seguindo o padrão LOM (Learning Object Metadata).
 
 ## Licença de Uso
 <a href="https://github.com/MatheusOliveiraT/LogiCard">LogiCard</a> © 2025 by <a href="https://github.com/MatheusOliveiraT">Matheus de Oliveira Teixeira</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+
